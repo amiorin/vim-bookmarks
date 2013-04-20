@@ -49,4 +49,12 @@ if has("autocmd")
 endif
 ```
 
+## Self-Promotion
+Like this plugin?
+* Star the repository on [GitHub](https://github.com/amiorin/vim-fenced-code-blocks)
+* Follow me on
+  * [Twitter](http://twitter.com/amiorin)
+  * [GitHub](https://github.com/amiorin)
+  * [Blog](http://albertomiorin.com)
+
 [1]: https://github.com/kshenoy/vim-signature
