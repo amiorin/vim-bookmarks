@@ -30,11 +30,11 @@ position when I use the mark.
 ```
 
 Using this plugin `` `V`` reopens the ``.vimrc`` with the cursor in the last
-position and not in the position of the mark. If I want also to move the
+position and not in the position of the mark. If I also want to move the
 cursor I can use again `` `V`` or use only time `` 'V``.
 
 ## How to start to use marks
-I think that most vimmers don't use marks, because they are difficult to use.
+I think most vimmers don't use marks, because they are difficult to use.
 
 I use [vim-signature][1] to make marks user-friendly and this ``autocmd``:
 
@@ -49,4 +49,4 @@ if has("autocmd")
 endif
 ```
 
-[1]: htps://github.com/kshenoy/vim-signature
+[1]: https://github.com/kshenoy/vim-signature
