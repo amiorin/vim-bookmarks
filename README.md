@@ -3,7 +3,7 @@ This plugin change the behaviour of `` ` `` and `` ' `` from.
 
 ```text
                                                 'A '0 `A `0
-'{A-Z0-9}  `{A-Z0-9}    To the mark {A-Z0-9} in the file where it was set (not
+           `{A-Z0-9}    To the mark {A-Z0-9} in the file where it was set (not
                         a motion command when in another file).  {not in Vi}
 ```
 
@@ -11,7 +11,7 @@ to
 
 ```text
                                                 'A '0 `A `0
-'{A-Z0-9}  `{A-Z0-9}    Edit the FILE containing mark {A-Z0-9} if in another file
+           `{A-Z0-9}    Edit the FILE containing mark {A-Z0-9} if in another file
                         or
                         to the mark {A-Z0-9} in the file where it was set if
                         in the same file.
