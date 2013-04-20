@@ -11,9 +11,9 @@ to
 
 ```text
                                                 'A '0 `A `0
-           `{A-Z0-9}    Edit the FILE containing mark {A-Z0-9} if in another file
+           `{A-Z0-9}    Edit the file containing the mark {A-Z0-9} if in another file
                         or
-                        to the mark {A-Z0-9} in the file where it was set if
+                        jump to the mark {A-Z0-9} in the file where it was set if
                         in the same file.
 ```
 
