@@ -1,5 +1,5 @@
 ## Introduction
-This plugin change the behaviour of `` ` `` and `` ' `` from.
+This plugin change the behaviour of `` ` `` from.
 
 ```text
                                                 'A '0 `A `0
@@ -16,6 +16,8 @@ to
                         jump to the mark {A-Z0-9} in the file where it was set if
                         in the same file.
 ```
+
+`` ' `` is remapped to `` ` ``.
 
 ## Explanation
 I use marks to bookmark files that I use often and I don't care about the
