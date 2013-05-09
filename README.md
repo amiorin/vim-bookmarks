@@ -58,3 +58,7 @@ Like this plugin?
   * [Blog](http://albertomiorin.com)
 
 [1]: https://github.com/kshenoy/vim-signature
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/amiorin/vim-bookmarks/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
