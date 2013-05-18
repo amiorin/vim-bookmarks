@@ -51,7 +51,7 @@ endif
 
 ## Self-Promotion
 Like this plugin?
-* Star the repository on [GitHub](https://github.com/amiorin/vim-fenced-code-blocks)
+* Star the repository on [GitHub](https://github.com/amiorin/vim-bookmarks)
 * Follow me on
   * [Twitter](http://twitter.com/amiorin)
   * [GitHub](https://github.com/amiorin)
